@@ -1,7 +1,7 @@
 
 # Calculadora em JS
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Uma calculadora feita em uma aula da OneBitCode com o intuito de aprendizado sobre JS e estilização com css.
 
 
 ## Funcionalidades
